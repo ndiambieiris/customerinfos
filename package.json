@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "@devexpress/dx-react-core": "3.0.4",
+    "@devexpress/dx-react-grid": "3.0.4",
+    "@devexpress/dx-react-grid-bootstrap3": "^4.0.5",
+    "bootstrap": "4.6.0",
+    "react": "^17.0.2",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.11.0",
+    "react-redux": "^7.2.4",
+    "redux": "^4.0.4"
+  },
+    "description": "Your project description",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ndiambieiris/typescriptgridtable.git"
+    },
+    
+  "name": "8qx2wj",
+  "version": "0.0.0",
+  "devDependencies": {
+    "@types/react": "^18.2.23",
+    "@types/react-dom": "^18.2.8",
+    "gh-pages": "^6.0.0",
+    "react-scripts": "^5.0.1",
+    "url": "https://github.com/ndiambieiris/typescriptgridtable.git"
+
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
